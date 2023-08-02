@@ -45,7 +45,7 @@ export const inventory: InventoryProduct[] = [
     sku: "khaki_tote_bag_1",
     name: "Khaki Tote Bag",
     description: `Meet your new favorite carry-on. Our supersized tote is crafted in durable waxed cotton canvas that's rugged and durable, ideal for hauling all of your stuff. This size takes you to and from the farmer's market, the gym or a weekend getaway.`,
-    price: 14500,
+    price: 100,
     image:
       "https://fullstackdotso.nyc3.cdn.digitaloceanspaces.com/khaki-tote-bag-1.jpg",
     images: [
