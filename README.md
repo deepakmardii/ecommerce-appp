@@ -1,7 +1,7 @@
 
 ## Flair Ecommerce Store
 
-This project is the backend code for the Flair Ecommerce Store, a fully functional online shopping platform.
+This project is a Fullstack application, Flair Ecommerce Store, a fully functional online shopping platform.
 
 **Key Technologies:**
 
